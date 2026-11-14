@@ -210,4 +210,4 @@ This repository serves as the official landing page for MyIPTV Player. The softw
 **Get the most recent version of MyIPTV Player today!**
 
 ---
-**Last updated:** 2026-11-14 01:12:27 UTC
+**Last updated:** 2026-11-14 08:28:34 UTC
